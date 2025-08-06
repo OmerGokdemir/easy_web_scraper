@@ -17,5 +17,3 @@
 
    *   Follow the instructions in the video to modify the code (scraper.py), adding data extraction logic based on the website you’re working with.
    *   Use ChatGPT to help generate the complete code based on your requirements.
-
-Watch the video here: [Web Scraping Tutorial](https://www.youtube.com/watch?v=3-agWIg3Y5w)
